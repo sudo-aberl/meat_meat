@@ -1,7 +1,0 @@
-MEAT-MEET is a quiz application that asks the user 10 questions regarding meats.
-the user may pick one of 3 corresponding answer options.
-at the end of the quiz, the user is redirected to the result page,
-where he learns whats cut of meat meets his personality,
-and of what rarity class he belongs to
-
-the database is in the form of dictionaries
